@@ -1,4 +1,5 @@
 .DS_Store
 *.jpg
 *.jpe
-ignorar_esto2/
+#ignorar_esto/
+#ignorar_esto2/
